@@ -1,6 +1,6 @@
 ### Hi there! I'm Ewerton Becker 👋
 📌 Brazilian living in Portugal! <br>
-🧑🏽‍💻 Future front-end developer. <br>
+🧑🏽‍💻 Future developer. <br>
 🙋‍♂️ Passionate about programming and new connections!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ew_mac/)
